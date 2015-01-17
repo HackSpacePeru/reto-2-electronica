@@ -19,4 +19,4 @@ Esto se hace de la siguiente manera.
 
 Recuerden poner una resistencia por cada pin del led, y que un RGB funciona como 3 leds en uno. Al variar la intensidad en cada uno, se pueden obtener combinaciones de colores. Este ejercicio no es particularmente complicado, pero es un reto que les enseñará a trabajar con el puerto serial :D
 
-¡Mucha suerte! (bueno, no creo que la necesiten ;) )
+¡Mucha suerte! (bueno, no creo que la necesiten ;) ) Envíanos tu comentario y un par de fotos del circuito funcionando.
